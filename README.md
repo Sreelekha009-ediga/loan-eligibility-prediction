@@ -1,6 +1,6 @@
 # Loan Eligibility Prediction
 
-**Live Demo:** [https://your-app-name.onrender.com]  *(update this link after deployment)*
+**Live Demo:** https://loan-eligibility-prediction-3.onrender.com
 
 A supervised machine learning project to predict loan eligibility based on applicant details.
 
